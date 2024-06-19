@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Jain Burger",
+        "address": "Subhash Nagar",
+        "cuisine": "Indian",
+        "website": "https://www.youtube.com/",
+        "description": "aacha hai bhai\r\n"
+      },
+      {
+        "name": "test ",
+        "address": "test",
+        "cuisine": "chinese",
+        "website": "https://mytest.com",
+        "description": "test is success"
+      },
+      {
+        "name": "restaurant 3",
+        "address": "resta",
+        "cuisine": "mexican",
+        "website": "https:/apnatimeaagya.com",
+        "description": "oh yes khaana aacha tha"
+      }
+]
